@@ -2,5 +2,4 @@
 
 ## Aquafaba
 
-* 3 Tablespoons can replace one whole egg.
-* 2 Tablespoons can replace one egg white
+* $^1/_4$ Cup can replace one egg white or whole egg without issue.
